@@ -99,11 +99,16 @@ body{
 }
 .image-contain, .image-cover{
     border: black 3px solid;
-    width: 400px;
-    height: 200px;
+    width: 50vw;
+    height: 20vh;
     background-image:url("../images/bread.jpg");
+    background-repeat: no-repeat;
+    background-position: center center ;
 }
 
 .image-contain{
     background-size: contain;
+}
+.image-cover{
+    background-size: cover;
 }
