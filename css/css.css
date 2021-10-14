@@ -3,6 +3,9 @@ body{
 }
 .sizing{
     border:5px orangered solid;
-    width: 200px;
+   /* width: 200px;
     height: 200px;
+    px is hard code*/
+    width: 50%;
+    height: 50%;
 }
