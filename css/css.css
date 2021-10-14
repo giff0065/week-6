@@ -96,5 +96,14 @@ body{
     letter-spacing: 0.1em;
     text-decoration: underline;
 
+}
+.image-contain, .image-cover{
+    border: black 3px solid;
+    width: 400px;
+    height: 200px;
+    background-image:url("../images/bread.jpg");
+}
 
+.image-contain{
+    background-size: contain;
 }
