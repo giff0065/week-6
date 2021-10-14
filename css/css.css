@@ -1,3 +1,6 @@
+html{
+    font-size: 22px;
+}
 body{
     background-color: blueviolet;
 }
@@ -15,5 +18,5 @@ body{
     font-size:2rem;
 }
 .using-em{
-    
+
 }
