@@ -9,14 +9,15 @@ body{
    /* width: 200px;
     height: 200px;
     px is hard code*/
-    /*width: 50%;
+    width: 50%;
     height: 50%;
-    % only works on width*/
+    /*% only works on width*/
+    font-size: 10px;
 }
 
 .using-rem{
     font-size:2rem;
 }
 .using-em{
-
+    font-size:1.5em;
 }
