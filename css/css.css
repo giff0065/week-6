@@ -56,6 +56,7 @@ html{
 body{
     background-color: blueviolet;
     background-image:url("../images/white_brick_wall.png");
+    background-repeat: repeat-x;
 }
 .sizing{
     border:5px orangered solid;
