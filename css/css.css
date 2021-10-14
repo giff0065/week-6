@@ -3,4 +3,6 @@ body{
 }
 .sizing{
     border:5px orangered solid;
+    width: 200px;
+    height: 200px;
 }
